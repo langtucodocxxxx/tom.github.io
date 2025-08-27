@@ -3,8 +3,7 @@
 Welcome! 👋  
 This is the official support page .
 
----
-
+--
 ## Contact Support
 If you experience issues using the app or need technical assistance, please reach out:  
 
@@ -18,6 +17,6 @@ If you experience issues using the app or need technical assistance, please reac
 - Try closing and reopening the app. If the issue persists, please uninstall and reinstall it from the App Store.  
 
 **2. How can I share feedback or suggestions?**  
-- We’d love to hear from you! Please send your feedback to `support@example.com`.  
+- We’d love to hear from you! Please send your feedback to `langtucodocxxxx@gmail.com`.  
 
 ---
